@@ -23,5 +23,5 @@
 
 ## Predictions - 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9fb9ee63-c39b-4173-ae69-ccce8148847a)
 
